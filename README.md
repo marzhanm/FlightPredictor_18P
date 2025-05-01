@@ -21,7 +21,11 @@ References
 
 Team Members
 Mutalova Marzhan, 220103354, 18P
+
 Nurislam Galizhan, 220103263, 18P
+
 Tuleubekova Togzhan, 220103197, 18P
+
 Arim Askhatuly, 220103397, 18P
+
 Azel Zhumagul, 220103265, 18P
