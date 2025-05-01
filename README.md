@@ -1,4 +1,4 @@
-# FlyAway
+# FlightPredictor
 Final project for Advanced Project Management course.
 
 Introduction
